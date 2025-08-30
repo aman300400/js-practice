@@ -27,4 +27,6 @@ symbols
 // let user = {firstname: "aman" , lastname: "kumar"}
 
 let geScore = 116;
+
 or let geScore = Score ;
+//console.log(getScore)
