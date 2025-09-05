@@ -15,7 +15,7 @@ objects
 
 symbols
 */
-
+////
 // var score = 99 
 
 // let score = 110;
@@ -30,3 +30,4 @@ let geScore = 116;
 
 or let geScore = Score ;
 //console.log(getScore)
+
